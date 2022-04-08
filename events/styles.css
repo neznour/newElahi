@@ -1,0 +1,13 @@
+.body {
+    background: #f4f4f4;
+  }
+.table1{
+    width: 100%;
+
+    background-color: #9bbac9;
+}
+.Footer .table2{
+    width: 100%;
+    background-color: rgba(49, 105, 189, 0.884);
+    height: 1px;
+  }
